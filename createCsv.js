@@ -37,5 +37,5 @@ const csvFilePath = 'arquivo/level_b2b.csv';
 if (jsonFilePath && csvFilePath) {
   convertJsonToCsv(jsonFilePath, csvFilePath);
 } else {
-  console.log('Por favor, forneça os caminhos dos arquivos JSON e CSV.');
+  console.log('Por favor, forneça os caminhos dos arquivos JSON e CSV. Obrigado!');
 }
