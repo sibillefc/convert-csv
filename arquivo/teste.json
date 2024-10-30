@@ -1,0 +1,17 @@
+[
+  {
+    "Código": 1,
+    "Nome": "João Silva",
+    "E-mail": "joao.silva@example.com"
+  },
+  {
+    "Código": 2,
+    "Nome": "Maria Oliveira",
+    "E-mail": "maria.oliveira@example.com"
+  },
+  {
+    "Código": 3,
+    "Nome": "Carlos Souza",
+    "E-mail": "carlos.souza@example.com"
+  }
+]

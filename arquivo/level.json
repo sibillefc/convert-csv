@@ -1,0 +1,142 @@
+[
+        {
+            "id": 101161,
+            "code": "ITW_2PY1",
+            "description": "ITW_2PY1",
+            "active": 1,
+            "createdAt": "2024-10-02T19:14:46.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101421,
+            "code": "LCB1",
+            "description": "Lion Cubs Blue 1",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:04.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101422,
+            "code": "LCB2",
+            "description": "Lion Cubs Blue 2",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:29.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101423,
+            "code": "LSB1",
+            "description": "Lion Stars Blue 1",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:31.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101424,
+            "code": "LSB2",
+            "description": "Lion Stars Blue 2",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:31.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101425,
+            "code": "LJB1",
+            "description": "Lion Juniors Blue 1",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:33.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101426,
+            "code": "LJB2",
+            "description": "Lion Juniors Blue 2",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:35.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101427,
+            "code": "LEAG1",
+            "description": "Teen League 1",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:37.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101428,
+            "code": "LEAG2",
+            "description": "Teen League 2",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:39.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101429,
+            "code": "LEAG3",
+            "description": "Teen League 3",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:41.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101430,
+            "code": "LEAG4",
+            "description": "Teen League 4",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:43.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101431,
+            "code": "EXP1",
+            "description": "Express Pack 1",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:45.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101432,
+            "code": "EXP2",
+            "description": "Express Pack 2",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:46.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        },
+        {
+            "id": 101433,
+            "code": "EXP3",
+            "description": "Express Pack 3",
+            "active": 1,
+            "createdAt": "2024-10-09T14:25:47.000Z",
+            "levelId": null,
+            "learningMore": null,
+            "periodId": "0000"
+        }
+]
